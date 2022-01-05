@@ -4,7 +4,11 @@ The Game Collection is a menu driven aplication allows you to keep a collection 
 
 ## Home
 
-This is the home screen for the menu driven application, which gives access to the following features:
+This is the home screen for the menu driven application
+
+![main](https://user-images.githubusercontent.com/82043281/148290120-2902ba34-ae94-4cb6-a576-27e8a5a032ae.png)
+
+ Which gives access to the following features:
 
 * Add a Game
 * Remove a Game
@@ -14,7 +18,5 @@ This is the home screen for the menu driven application, which gives access to t
 * Beaten
 * Favourites
 * Update
-
-![main](https://user-images.githubusercontent.com/82043281/148289700-55ec26a9-9ec1-4144-bacb-caa8cdc205ae.png)
 
 A GUI is currently in the works..
